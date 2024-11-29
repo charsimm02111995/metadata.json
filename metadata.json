@@ -1,7 +1,7 @@
 {
   "name": "Trump's Iconic Token",
   "symbol": "TIT",
-  "description": "A unique token representing a pivotal concept in cryptocurrency.",
+  "description": "A unique token representing a pivotal concept in cryptocurrency. Join the TIT revolution!",
   "image": "https://i.postimg.cc/Vv3QDGM1/1156f987-552b-418b-b776-413e200996e3.webp",
   "attributes": [
     {
@@ -9,7 +9,7 @@
       "value": "Memorabilia"
     }
   ],
-  "external_url": "https://example.com", // Replace with your actual project website if available
+  "external_url": "",
   "properties": {
     "files": [
       {
@@ -20,7 +20,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "8e9wwScihBkhiy5my51EgZfhyShM6uZU3Qvvbg91hK4B", // Your mint address, assuming it's also the creator's address
+        "address": "8e9wwScihBkhiy5my51EgZfhyShM6uZU3Qvvbg91hK4B",
         "share": 100
       }
     ]
