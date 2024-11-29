@@ -20,9 +20,10 @@
     "category": "image",
     "creators": [
       {
-        "address": "8e9wwScihBkhiy5my51EgZfhyShM6uZU3Qvvbg91hK4B",
+        "address": "7k5uBYp3q72BV3Jeimtd5KrqMwv2jV4vrWC5vENRR4YD",
         "share": 100
       }
     ]
-  }
+  },
+  "mintAddress": "8e9wwScihBkhiy5my51EgZfhyShM6uZU3Qvvbg91hK4B"
 }
