@@ -1,11 +1,11 @@
 {
-   "name": "Trump's Iconic Ticker",
-   "symbol": "TIT",
-   "image": "https://i.postimg.cc/Vv3QDGM1/1156f987-552b-418b-b776-413e200996e3.webp",
-   "creators": [
-      {
-         "address": "7k5uBYp3q72BV3Jeimtd5KrqMwv2jV4vrWC5vENRR4YD",
-         "share": 100
-      }
-   ]
+  "name": "Trump's Iconic Ticker",
+  "symbol": "TIT",
+  "creators": [
+    {
+      "address": "7k5uBYp3q72BV3Jeimtd5KrqMwv2jV4vrWC5vENRR4YD",
+      "share": 100
+    }
+  ],
+  "image": "https://i.postimg.cc/Vv3QDGM1/1156f987-552b-418b-b776-413e200996e3.webp"
 }
