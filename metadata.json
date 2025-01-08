@@ -2,27 +2,5 @@
   "name": "Trump's Iconic Ticker",
   "symbol": "TIT",
   "description": "The funniest and most iconic token in the meme world!",
-  "image": "https://i.postimg.cc/Vv3QDGM1/1156f987-552b-418b-b776-413e200996e3.webp",
-  "attributes": [
-    {
-      "trait_type": "Category",
-      "value": "Meme Coin"
-    }
-  ],
-  "external_url": "",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://i.postimg.cc/Vv3QDGM1/1156f987-552b-418b-b776-413e200996e3.webp",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "7k5uBYp3q72BV3Jeimtd5KrqMwv2jV4vrWC5vENRR4YD",
-        "share": 100
-      }
-    ]
-  }
+  "image": "https://i.postimg.cc/Vv3QDGM1/1156f987-552b-418b-b776-413e200996e3.webp"
 }
